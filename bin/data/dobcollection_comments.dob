@@ -1,0 +1,6 @@
+/* Header comment */
+[id='1' string='text 1'] /* Row 1 */
+[id='2' string='text 2'] /* Row 2 */
+
+[id='3' string='text 3'] /* Row 3 */
+/* End comment */
